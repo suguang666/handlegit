@@ -1,5 +1,6 @@
 1、用来学习git的操作
 2、加入html的处理
+	添加index.html
 3、加入css的处理
 4、加入js的处理
 5、加入vue的处理
